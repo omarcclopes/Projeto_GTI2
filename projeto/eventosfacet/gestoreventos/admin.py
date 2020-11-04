@@ -1,4 +1,6 @@
 from django.contrib import admin
+
+#from gestoreventos.models import Curso, Funcionario, Palestrante, Evento
 from gestoreventos.models import Curso, Funcionario, Palestrante, Evento
 
 # Register your models here.
