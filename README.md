@@ -1,2 +1,3 @@
 # Projeto_GTI2
- Progeto GTI Omar
+ Projeto GTI Omar Cantidiano da Cunha Lopes
+Avaliação da Unidade II
